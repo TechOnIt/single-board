@@ -1,6 +1,6 @@
 <div>
       <a href="#" target="_blank"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="NuGet" /></a>
-      <a href="#" target="_blank"><img src="https://badgen.net/badge/version/1.0.0 - alfa/green"/></a>
+      <a href="#" target="_blank"><img src="https://badgen.net/badge/status/development/yellow"/></a>
       <a href="#" target="_blank"><img src="https://badgen.net/badge/MicroPython/Python 3/red"/></a>
 </div>
  <div align="center">
