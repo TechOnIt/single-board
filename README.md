@@ -4,11 +4,9 @@
       <a href="#" target="_blank"><img src="https://badgen.net/badge/MicroPython/Python 3/red"/></a>
 </div>
  <div align="center">
-     <h1>Single-Board IoT Project</h1>
+     <h1>Single board IoT Project</h1>
  </div>
  
-# Single-Board IoT Project
-
 This is an open-source IoT project designed for a single-board system like ESP32. The project manages Wi-Fi connectivity, sensors, relays, and user interaction via an LCD and keypad. It demonstrates a clean architecture suitable for small-scale IoT applications, with potential scalability for larger systems.
 
 ## Features
